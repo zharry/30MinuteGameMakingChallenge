@@ -6,7 +6,7 @@
 	
 ## How to play
 "The Game" is a two player CTF/Shooter where the objective is to reach a certain point and/or kill the other player
-* Frist the two players are spawned in the bottom left and right corners of the map
+* Frist two players are spawned in the bottom left and right corners of the map
 * The left hand-side player uses "WASD" to move and "SPACE" to shoot arrows
 * The right hand-side player uses Arrow Keys to move and "L" to shoot arrows
 * Standing on the electric charging pad will regenerate your arrows
